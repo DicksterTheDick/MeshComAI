@@ -40,7 +40,7 @@ No internet on the phone required — just mesh magic ⚡
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/votre-user-name/MeshComAI.git
+git clone https://github.com/DicksterTheDick/MeshComAI.git
 cd MeshComAI
 python3 -m venv venv
 source venv/bin/activate
