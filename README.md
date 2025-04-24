@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MeshComAI 🤖📡
 
 MeshComAI is a decentralized LoRa-to-AI bridge that lets you send messages from a phone to an AI (like ChatGPT or DeepSeek) using two Heltec V3 devices running Meshtastic and a Python script.
