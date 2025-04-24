@@ -56,7 +56,7 @@ python3 MeshComAI.py
 ```
 
 Make sure to paste your OpenRouter/OpenAI API key where indicated in MeshComAI.py and also go through
-the MEshComAI.py file to enter YOUR credientials.
+the MeshComAI.py file to enter YOUR credientials.
 
 ---
 
