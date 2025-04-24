@@ -55,7 +55,7 @@ pip install -r requirements.txt
 python3 MeshComAI.py
 ```
 
-You'll be prompted to paste your OpenRouter/OpenAI API key.
+Make sure to paste your OpenRouter/OpenAI API key at the right place in MeshComAI.py
 
 ---
 
